@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import FlexBoxPage from '../client/pages/FlexBoxPage';
+import FlexBoxPage from './client/pages/FlexBoxPage'
 
 function App() {
   return (
